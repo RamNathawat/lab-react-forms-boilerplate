@@ -2,7 +2,7 @@
 
 ### Learning Goals:
 
-This lab aims to cover the conpet of `forms` in react.
+This lab aims to cover the concept of `forms` in react.
 
 ### Task: 
 
